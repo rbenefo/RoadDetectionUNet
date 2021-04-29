@@ -6,6 +6,7 @@ As part of a project for CIS 522, Deep Learning, my friends and I built a series
 
 Some sample outputs of the networks are below:
 ![Sample Satellite Image](images/download-5.png)
+
 ![Sample Output Mask](images/download-6.png)
 
 
